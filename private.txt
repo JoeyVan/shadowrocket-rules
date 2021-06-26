@@ -1,0 +1,12 @@
+DOMAIN,router.asus.com
+DOMAIN,lan
+DOMAIN,localdomain
+DOMAIN,example
+DOMAIN,invalid
+DOMAIN,localhost
+DOMAIN,test
+DOMAIN,local
+DOMAIN,home.arpa
+DOMAIN,msftconnecttest.com
+DOMAIN,localhost.sec.qq.com
+DOMAIN,localhost.ptlogin2.qq.com
